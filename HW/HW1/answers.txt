@@ -1,0 +1,4 @@
+#3
+    I needed to use wait to ensure that the parent would go first.
+I'm writing to a file! - Parent
+I'm writing to a file! - Child
